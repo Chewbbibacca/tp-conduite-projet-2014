@@ -77,10 +77,18 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Louis Chevalier,
 * Pancher Pierre-louis,
 * A Thibault Gauran,
+* Basset Hector,
+* Fouquet Stevy,
+* Pagis Etienne,
+* Grude Victorien,
 * Toulmonde Joris,
 * Godefroy Thieulart,
 * Basset Hector,
-* Dezere Florian.
+* Guedouard Wajdi,
+* Godefroy Thieulart,
+* Basset Hector,
+* Dezere Florian,
 * Lemée Arthur,
 * Baptiste,
-* Yann.
+* Yann,
+* Dezere Florian.
